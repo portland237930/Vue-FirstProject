@@ -1,0 +1,14 @@
+{
+    "folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\静态页+静态组件\\静态组件\\Search路由组件_静态\\search"
+		}
+	],
+    "settings": {
+        "compile-hero.disable-compile-files-on-did-save-code": false,
+        "liveServer.settings.multiRootWorkspaceName": "vue-test"
+    }
+}
